@@ -1,4 +1,4 @@
 baseURL = 'https://nowblog.github.io/'
 languageCode = 'zh-CN'
 title = '文章'
-theme="less"
+theme="holy"
