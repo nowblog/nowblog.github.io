@@ -1,0 +1,6 @@
+[submodule "themes/less"]
+	path = themes/less
+	url = git@github.com:4ever9/less.git
+[submodule "themes/holy"]
+	path = themes/holy
+	url = https://github.com/serkodev/holy.git
